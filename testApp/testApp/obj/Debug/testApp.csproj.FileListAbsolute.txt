@@ -1,1 +1,2 @@
 C:\Users\Ahmed\git-training\test\testApp\testApp\bin\Debug\testApp.exe.config
+C:\Users\Ahmed\ReactApp\testApp\testApp\bin\Debug\testApp.exe.config
