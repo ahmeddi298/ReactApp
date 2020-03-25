@@ -1,2 +1,7 @@
 C:\Users\Ahmed\git-training\test\testApp\testApp\bin\Debug\testApp.exe.config
 C:\Users\Ahmed\ReactApp\testApp\testApp\bin\Debug\testApp.exe.config
+C:\Users\Ahmed\ReactApp\testApp\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\ReactApp\testApp\testApp\bin\Debug\testApp.exe
+C:\Users\Ahmed\ReactApp\testApp\testApp\bin\Debug\testApp.pdb
+C:\Users\Ahmed\ReactApp\testApp\testApp\obj\Debug\testApp.exe
+C:\Users\Ahmed\ReactApp\testApp\testApp\obj\Debug\testApp.pdb
